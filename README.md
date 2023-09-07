@@ -2,7 +2,7 @@
 
 A simple portfolio built with React. 
 
-### [live preview]()
+### [live preview](https://main--glittering-dusk-39fe43.netlify.app/)
 
 ### Features
 
