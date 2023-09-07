@@ -184,7 +184,7 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.comhttps://github.com/a4abubakar",
+    github: "https://github.com/a4abubakar",
     facebook: "https://facebook.com/MuhammadAubakerSiddiq",
     linkedin: "https://linkedin.com/in/muhammad-abubaker-siddiq-27b37615b/",
     twitter: "https://twitter.com",
