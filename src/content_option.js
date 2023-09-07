@@ -15,7 +15,7 @@ const introdata = {
     development cycle for dynamic web projects. Strong background in project team lead and customer 
     relations. Passionate front-end web developer with 6 years of experience using JavaScript, HTML5, CSS, 
     React JS, Next JS and React Native to build all aspects of the user experience and user interface for client facing landing pages. Specializes in using React JS and Next JS to build cool web apps.`,
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://media.istockphoto.com/id/844063596/photo/always-online.jpg?s=612x612&w=0&k=20&c=Gv5gZF75XKKwYzYieOzV7qdlCvD-HDYSisxl2j9jit8=",
 };
 
 const dataabout = {
